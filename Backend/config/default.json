@@ -1,0 +1,4 @@
+{
+  "mogoUri": "mongodb+srv://safwen:safwen123@cluster0-eyyjv.mongodb.net/test?retryWrites=true&w=majority",
+  "pass":"pass" 
+}
